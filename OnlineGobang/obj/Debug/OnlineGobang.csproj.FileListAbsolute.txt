@@ -1,0 +1,8 @@
+D:\Desktop\OnlineGobang\OnlineGobang\obj\Debug\OnlineGobang.csprojResolveAssemblyReference.cache
+D:\Desktop\OnlineGobang\OnlineGobang\obj\Debug\OnlineGobang.Form1.resources
+D:\Desktop\OnlineGobang\OnlineGobang\obj\Debug\OnlineGobang.Properties.Resources.resources
+D:\Desktop\OnlineGobang\OnlineGobang\obj\Debug\OnlineGobang.csproj.GenerateResource.Cache
+D:\Desktop\OnlineGobang\OnlineGobang\bin\Debug\OnlineGobang.exe
+D:\Desktop\OnlineGobang\OnlineGobang\bin\Debug\OnlineGobang.pdb
+D:\Desktop\OnlineGobang\OnlineGobang\obj\Debug\OnlineGobang.exe
+D:\Desktop\OnlineGobang\OnlineGobang\obj\Debug\OnlineGobang.pdb
